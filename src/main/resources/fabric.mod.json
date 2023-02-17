@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "exampledynamictexture",
+  "version": "${version}",
+  "name": "Exampledynamictexture",
+  "description": "example dynamic texture",
+  "authors": [
+    "Jacobwasbeast"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/exampledynamictexture/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "jacobwasbeast.examplemod.MainClient"
+    ],
+    "main": [
+      "jacobwasbeast.examplemod.Main"
+    ]
+  },
+  "mixins": [
+    "exampledynamictexture.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.14",
+    "fabric": "*",
+    "minecraft": "1.19.3"
+  }
+}

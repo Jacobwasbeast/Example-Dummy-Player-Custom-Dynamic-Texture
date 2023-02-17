@@ -1,0 +1,9 @@
+Main Urls used in demo:
+https://imgur.com/a/tGEkV4L
+------
+1-https://i.imgur.com/ZV68RTJ.png
+2-https://i.imgur.com/k4udAZQ.png
+3-https://i.imgur.com/f8EJroV.png
+4-https://i.imgur.com/o5KaAvE.png
+
+Default: https://s.namemc.com/i/63455d7069b397c2.png
