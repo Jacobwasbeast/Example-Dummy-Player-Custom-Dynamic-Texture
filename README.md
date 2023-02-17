@@ -1,2 +1,2 @@
 # Example-Dummy-Player-Custom-Dynamic-Texture
-[![Gif]()](https://i.imgur.com/P1fe4OI.mp4)
+[![Demo](https://i.imgur.com/P1fe4OI.mp4)](https://i.imgur.com/P1fe4OI.mp4)
